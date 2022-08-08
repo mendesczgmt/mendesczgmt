@@ -6,11 +6,17 @@ Olá, me chamo Gabryel Mendes 👋
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendesczgmt&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+### Tecnologias Back End que já usei
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mendes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Mendes-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+</div>
+  
+### Tecnologias Front End que já usei
 <div style="display: inline_block"><br>
   <img align="center" alt="Mendes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mendes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mendes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Menes-java" height="30" width="40" 
 </div>
 
 ##
