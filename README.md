@@ -24,7 +24,7 @@ Olá, me chamo Gabryel Mendes 👋
 
   ### SGBDs que já fiz uso
 <div style="display: inline_block"><br>
-  <img align="center" "30" width "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+            <img align-="center" height="30" widht"40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </div>
   
 ##
