@@ -24,7 +24,7 @@ Olá, me chamo Gabryel Mendes 👋
 
   ### SGBDs que já fiz uso
 <div style="display: inline_block"><br>
-  https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
   
 ##
