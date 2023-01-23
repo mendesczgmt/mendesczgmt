@@ -22,6 +22,13 @@ Olá, me chamo Gabryel Mendes 👋
 
 ##
 
+  ### SGBDs que já fiz uso
+<div style="display: inline_block"><br>
+  https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+</div>
+  
+##
+  
 <div> 
   <a href="https://instagram.com/gabryel_mnds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabryelmendescz.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
