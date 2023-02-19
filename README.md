@@ -8,7 +8,8 @@ Olá, me chamo Gabryel Mendes 👋
 
 ### Tecnologias Back End que já usei
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mendes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Mateus-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+   <img align="center" alt="Mendes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Mendes-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 </div>
