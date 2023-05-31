@@ -1,6 +1,6 @@
 Olá, me chamo Gabryel Mendes 👋
 
-<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/mendesczgmt/mendesczgmt)">
+<a href="[https://github.com/mendesczgmt/github-mendesczgmt](https://github.com/mendesczgmt/mendesczgmt)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mendesczgmt&repo=github-README.md-" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
